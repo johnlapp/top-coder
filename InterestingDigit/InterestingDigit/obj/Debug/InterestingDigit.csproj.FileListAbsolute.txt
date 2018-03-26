@@ -1,6 +1,0 @@
-C:\Workspace\top-coder\InterestingDigit\InterestingDigit\bin\Debug\InterestingDigit.exe.config
-C:\Workspace\top-coder\InterestingDigit\InterestingDigit\bin\Debug\InterestingDigit.exe
-C:\Workspace\top-coder\InterestingDigit\InterestingDigit\bin\Debug\InterestingDigit.pdb
-C:\Workspace\top-coder\InterestingDigit\InterestingDigit\obj\Debug\InterestingDigit.csproj.CoreCompileInputs.cache
-C:\Workspace\top-coder\InterestingDigit\InterestingDigit\obj\Debug\InterestingDigit.exe
-C:\Workspace\top-coder\InterestingDigit\InterestingDigit\obj\Debug\InterestingDigit.pdb
